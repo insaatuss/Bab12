@@ -1,0 +1,25 @@
+body {
+    background: url(b.jpg);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rosybrown;
+  }
+  
+  #image img {
+    width: 100%;
+  }
+  
+  #about-us {
+    padding: 50px;
+    top: 0;
+    bottom: 0;
+  }
+  
+  #img-slide img {
+    width: 100%;
+  }
+  
